@@ -12,7 +12,6 @@ namespace GITExample
         {
 
             Console.WriteLine("Hi, This is GIT Example");
-
             Console.WriteLine("GITCheck-in");
 
 
